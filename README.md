@@ -74,7 +74,6 @@ CRUD, autentifikatsiya, kategoriya bo'yicha statistika, oylik/yillik hisobotlar,
 
 ---
 
-## 📊 GitHub Statistika
 
 ## 📊 GitHub Statistika
 
@@ -82,7 +81,7 @@ CRUD, autentifikatsiya, kategoriya bo'yicha statistika, oylik/yillik hisobotlar,
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxBerd10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MaxBerd10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxBerd10&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
